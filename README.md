@@ -36,6 +36,7 @@ https://systems.jhu.edu/
   - Florida Department of Health Dashboard: https://services1.arcgis.com/CY1LXxl9zlJeBuRZ/arcgis/rest/services/Florida_COVID19_Cases/FeatureServer/0
     and https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86
   - Colorado: https://covid19.colorado.gov/covid-19-data
+  - Virginia: https://www.vdh.virginia.gov/coronavirus/
 
 - Non-US data sources at the country/region (Admin0) or state/province (Admin1) level:
   - National Health Commission of the People’s Republic of China (NHC):
@@ -66,6 +67,7 @@ https://systems.jhu.edu/
   - Colombia: https://antioquia2020-23.maps.arcgis.com/apps/opsdashboard/index.html#/a9194733a8334e27b0eebd7c8f67bd84 and [Instituto Nacional de Salud](https://www.ins.gov.co/Paginas/Inicio.aspx)
   - Russia: https://xn--80aesfpebagmfblc0a.xn--p1ai/information/
   - Ukraine: https://covid19.rnbo.gov.ua/
+  - Public Health Agency of Sweden: https://experience.arcgis.com/experience/09f821667ce64bf7be6f9f87457ed9aa
 
 
 <br>
